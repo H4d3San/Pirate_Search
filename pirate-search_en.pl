@@ -12,6 +12,7 @@ use strict;
 #   Lib 'Config' removed.
 #   Optimized code
 # [!] Please, If my program has a english error, contact me. [!]
+# Attention: The maximum amount of results supported is 30.
 
 system('clear');
 if(abs($?) != $?){
